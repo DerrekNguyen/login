@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 200px;
+    background: #fff;
+    padding-bottom: 30px;
+}
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 9px;
+    width: 100%;
+    margin-top: 15px;
+}
+.text-connection {
+    color: #3c009d;
+    font-size: 48px;
+    font-weight: 600;
+}
+.text-signup {
+    color: rgb(20, 95, 234);
+    font-size: 20px;
+    font-weight: 450;
+}
+.underline {
+    width: 41px;
+    height: 3px;
+    background: rgb(20, 95, 234);
+    border-radius: 9px;
+}
