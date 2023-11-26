@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.pagetop {
+  text-justify: center;
+  text-align: center;
+  height: 5%;
+  background-color: white;
+  display: block;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 4;
+}
